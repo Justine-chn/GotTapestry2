@@ -1,0 +1,171 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Cendor Clegane, The Mountain. He is the eldest brother of Sandor Clegane, hated by him for burning half his face as a child. Knight, he is known to be one of Westeros' best fighters, extremely impulsive and violent. He is also nicknamed \"the mad dog of Tywin Lannister\", which is his sovereign since the house Clegane is a vassal house of the Lannisters.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\"><strong>Cendor Clegane, The Mountain.</strong> He is the eldest brother of Sandor Clegane, hated by him for burning half his face as a child. Knight, he is known to be one of Westeros' best fighters, extremely impulsive and violent. He is also nicknamed \"the mad dog of Tywin Lannister\", which is his sovereign since the house Clegane is a vassal house of the Lannisters.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:46:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672328811530",
+    "dcterms:modified" : "2022-12-29T15:46:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1657,537,206,490"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1656.63196,537.35654h102.9162v0h102.9162v244.79955v244.79955h-102.9162h-102.9162v-244.79955z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8a356bda-3073-49b4-9727-f075fa5456b0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Iconographic reference to the Mountain.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Iconographic reference to the Mountain.&nbsp;</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:47:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672328823194",
+    "dcterms:modified" : "2022-12-29T15:47:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1573,242,194,175"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1601.44435,267.60018c17.90963,-14.71287 43.17407,-25.66905 68.56094,-25.65596v0v0c25.38687,0.01309 47.50309,10.26242 68.56094,25.65596c21.05785,15.39354 29.24277,38.85033 28.39887,61.93897c-0.8439,23.08864 -10.71661,45.80912 -28.39887,61.93897c-17.68226,16.12985 -43.17407,25.66905 -68.56094,25.65596c-25.38687,-0.01309 -50.6688,-9.57847 -68.56094,-25.65596c-17.89214,-16.07749 -28.3945,-38.66707 -28.39887,-61.93897c-0.00437,-23.2719 10.48924,-47.2261 28.39887,-61.93897z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_0fdc401a-4722-42a2-928d-7e650fa9a392\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1.99836\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Norman almond shield.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Norman almond shield.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T16:04:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329840989",
+    "dcterms:modified" : "2022-12-29T16:04:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1607,751,211,239"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1637.98876,786.36838c19.52537,-20.03916 47.06907,-34.96164 74.74625,-34.94381v0v0c27.67718,0.01783 51.78864,13.97757 74.74625,34.94381c22.95761,20.96624 31.88094,52.91474 30.96091,84.36182c-0.92003,31.44708 -11.68342,62.39272 -30.96091,84.36182c-19.27749,21.9691 -47.06907,34.96164 -74.74625,34.94381c-27.67718,-0.01783 -55.23994,-13.04603 -74.74625,-34.94381c-19.5063,-21.89778 -30.95614,-52.66514 -30.96091,-84.36182c-0.00477,-31.69668 11.43554,-64.32266 30.96091,-84.36182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_67bf33c6-d5bc-4ecb-9eb0-20ad1077c59f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Ser Loras, the Knight of Flowers. He is the son of Lady Alerie Hightower and Lord Mace Tyrell, the Lord Paramount of the Reach and Warden of the South. Loras was raised in privilege in the family seat and regional capital of Highgarden of which he is the heir.&nbsp;&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\"><strong>Ser Loras, the Knight of Flowers</strong>. He is the son of Lady Alerie Hightower and Lord Mace Tyrell, the Lord Paramount of the Reach and Warden of the South. Loras was raised in privilege in the family seat and regional capital of Highgarden of which he is the heir.&nbsp;&nbsp;</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:46:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672328789700",
+    "dcterms:modified" : "2022-12-29T15:46:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=781,501,166,330"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M781.35161,501.38612h82.93264v0h82.93264v164.86527v164.86527h-82.93264h-82.93264v-164.86527z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_57161423-422a-4229-8d30-6c1ef49ea180\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Flower, symbol of Ser Loras.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Flower, symbol of Ser Loras.&nbsp;</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:47:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672328849611",
+    "dcterms:modified" : "2022-12-29T15:47:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1141,222,189,166"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1169.11352,246.24516c17.47718,-13.92639 42.13158,-24.2969 66.90545,-24.28451v0v0c24.77387,0.01239 46.35607,9.71383 66.90545,24.28451c20.54938,14.57067 28.53667,36.77357 27.71315,58.62799c-0.82352,21.85442 -10.45784,43.36037 -27.71315,58.62799c-17.2553,15.26762 -42.13158,24.2969 -66.90545,24.28451c-24.77387,-0.01239 -49.44534,-9.06645 -66.90545,-24.28451c-17.46011,-15.21806 -27.70888,-36.6001 -27.71315,-58.62799c-0.00427,-22.02788 10.23596,-44.7016 27.71315,-58.62799z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_a7b9d2d8-07c2-4979-87c7-954810e758db\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1"
+    } ]
+  } ],
+  "@id" : "https://Justine-chn.github.io/GotTapestry2/annotations/75339b1062cfae08bec5a6d250486ac5.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
