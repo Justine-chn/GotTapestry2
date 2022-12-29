@@ -1,0 +1,170 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Game of Thrones Tapestry",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Tourism Ireland"
+  } ],
+  "description" : [ {
+    "@value" : "[The Game of Thrones Tapestry is an handmade embroidery on linen canvas created by Tourism Ireland, narrating the famous saga on 90m and inspired by The Bayeux Tapestry.These five scenes will allow to see how IIIF can contribute to the study of a textile artwork. ]",
+    "@language" : "en"
+  } ],
+  "viewingDirection" : "right-to-left",
+  "viewingHint" : "paged",
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "Justine Chainiau",
+  "sequences" : [ {
+    "@id" : "http://b63cbad2-d7de-4817-9ced-151fb2170573",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "structures" : [ {
+      "@id" : "http://example.org/iiif/book1/range/top",
+      "@type" : "sc:Range",
+      "label" : "Table of Content",
+      "viewingHint" : "top",
+      "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+    }, {
+      "@id" : "http://example.org/iiif/book1/range/intro",
+      "@type" : "sc:Range",
+      "label" : "Introduction",
+      "canvases" : [ "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1" ]
+    } ],
+    "canvases" : [ {
+      "@id" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1",
+      "@type" : "sc:Canvas",
+      "label" : "Joust Scene",
+      "height" : 1946,
+      "width" : 2422,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4821b4c2-dc99-4670-8638-0443c3e8d36a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-0459_202212/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-0459_202212",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1946,
+          "width" : 2422
+        },
+        "on" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c49c6107-7c4b-4fb4-90e8-121f06077d91",
+      "@type" : "sc:Canvas",
+      "label" : "Winterfell",
+      "height" : 2033,
+      "width" : 2558,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5a99f627-42a9-4849-a6c8-9bf576d1cba9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-0460_202212/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-0460_202212",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2033,
+          "width" : 2558
+        },
+        "on" : "http://c49c6107-7c4b-4fb4-90e8-121f06077d91"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0fdf68cb-85b0-4a1e-a383-c1e5febe6db9",
+      "@type" : "sc:Canvas",
+      "label" : "Banquet's scene",
+      "height" : 2123,
+      "width" : 4210,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://30e9fd7a-c8b9-4be6-b6d5-e902edaac43a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-0461/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-0461",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2123,
+          "width" : 4210
+        },
+        "on" : "http://0fdf68cb-85b0-4a1e-a383-c1e5febe6db9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d37564fe-0696-4126-9b21-e19467bf5755",
+      "@type" : "sc:Canvas",
+      "label" : "Battle of Castleblack",
+      "height" : 2398,
+      "width" : 4099,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://462d59e7-f42e-4521-9cb3-787a1885e732",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-0462/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-0462",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2398,
+          "width" : 4099
+        },
+        "on" : "http://d37564fe-0696-4126-9b21-e19467bf5755"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://de80748b-d900-464a-b55e-4e615901a4e7",
+      "@type" : "sc:Canvas",
+      "label" : "Purple Wedding",
+      "height" : 2110,
+      "width" : 3961,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://10009b8b-ffcb-4bd5-927a-d9d04745d580",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-0463_202212/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-0463_202212",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2110,
+          "width" : 3961
+        },
+        "on" : "http://de80748b-d900-464a-b55e-4e615901a4e7"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
