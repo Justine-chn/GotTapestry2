@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Justine-chn.github.io/GotTapestry2/annotations/58a1d56810216d061b89b05f71f76e9b.json" ],
+  "@id" : "https://Justine-chn.github.io/GotTapestry2/annotations/collection.json",
+  "label" : "All annotations loaded in Justine-chn/GotTapestry2 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
