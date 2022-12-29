@@ -1,0 +1,67 @@
+{
+  "id" : "https://Justine-chn.github.io/GotTapestry2/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Justine-chn/GotTapestry2 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2422,
+    "id" : "https://Justine-chn.github.io/GotTapestry2/images/IMG_0459/canvas/",
+    "label" : {
+      "none" : [ "IMG_0459" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Justine-chn.github.io/GotTapestry2/images/IMG_0459/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Justine-chn.github.io/GotTapestry2/images/IMG_0459/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 76,
+              "height" : 61
+            }, {
+              "width" : 152,
+              "height" : 122
+            }, {
+              "width" : 303,
+              "height" : 244
+            }, {
+              "width" : 606,
+              "height" : 487
+            }, {
+              "width" : 1211,
+              "height" : 973
+            }, {
+              "width" : 2422,
+              "height" : 1946
+            } ],
+            "profile" : "level0",
+            "width" : 2422,
+            "id" : "https://Justine-chn.github.io/GotTapestry2/images/IMG_0459",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1946
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2422,
+          "id" : "https://Justine-chn.github.io/GotTapestry2/images/IMG_0459/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1946
+        },
+        "target" : "https://Justine-chn.github.io/GotTapestry2/images/IMG_0459/canvas/"
+      } ]
+    } ],
+    "height" : 1946
+  } ]
+}
