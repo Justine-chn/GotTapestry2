@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Animal bestiary, inspired by the Bayeux tapestry.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Animal bestiary, inspired by the Bayeux tapestry.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T16:08:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672330118437",
+    "dcterms:modified" : "2022-12-29T16:08:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=513,1654,378,208"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M568.0753,1684.26371c34.94206,-17.50251 84.2335,-30.53604 133.76381,-30.52047v0v0c49.5303,0.01557 92.67951,12.20823 133.76381,30.52047c41.0843,18.31224 57.05324,46.21657 55.40678,73.68294c-1.64646,27.46637 -20.90833,54.49478 -55.40678,73.68294c-34.49846,19.18815 -84.2335,30.53604 -133.76381,30.52047c-49.5303,-0.01557 -98.85587,-11.39461 -133.76381,-30.52047c-34.90794,-19.12587 -55.39825,-45.99856 -55.40678,-73.68294c-0.00853,-27.68437 20.46472,-56.18042 55.40678,-73.68294z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_83e8fa98-401d-4d9d-a355-dc5752eba18f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0fdf68cb-85b0-4a1e-a383-c1e5febe6db9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scripts that help the storytelling.&nbsp;\nFrench traduction : \"Les Lannister vous saluent\".&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Scripts that help the storytelling.&nbsp;</p>\n<p>French traduction : \"Les Lannister vous saluent\".&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T16:01:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329693111",
+    "dcterms:modified" : "2022-12-29T16:04:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1157,441,840,236"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1156.5501,440.83436h419.95603v0h419.95603v118.22086v118.22086h-419.95603h-419.95603v-118.22086z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d39810f1-5d4c-4adc-b40b-673431a3b2e7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"32.69257\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0fdf68cb-85b0-4a1e-a383-c1e5febe6db9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Banquet's scene, recall in his treatment, the Banquet's scene of the Bayeux Tapestry, just before Hastings battle.&nbsp;<a title=\"Banquet\" href=\"https://fr.wikipedia.org/wiki/Fichier:.Tapisserie_de_Bayeux_1066_1082_Banquet_de_Guillaume_le_conqu%C3%A9rant.jpg\" target=\"_blank\" rel=\"noopener\">https://fr.wikipedia.org/wiki/Fichier:.Tapisserie_de_Bayeux_1066_1082_Banquet_de_Guillaume_le_conqu%C3%A9rant.jpg",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Banquet's scene, recall in his treatment, the Banquet's scene of the Bayeux Tapestry, just before Hastings battle.&nbsp;<a title=\"Banquet\" href=\"https://fr.wikipedia.org/wiki/Fichier:.Tapisserie_de_Bayeux_1066_1082_Banquet_de_Guillaume_le_conqu%C3%A9rant.jpg\" target=\"_blank\" rel=\"noopener\">https://fr.wikipedia.org/wiki/Fichier:.Tapisserie_de_Bayeux_1066_1082_Banquet_de_Guillaume_le_conqu%C3%A9rant.jpg</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T16:06:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329991908",
+    "dcterms:modified" : "2022-12-29T16:06:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1531,758,1146,392"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1698.35019,815.53141c105.77642,-32.9249 254.99121,-57.44297 404.92908,-57.41367v0v0c149.93787,0.02929 280.55892,22.96554 404.92908,57.41367c124.37017,34.44813 172.71127,86.94043 167.72712,138.60887c-4.98416,51.66844 -63.29358,102.51302 -167.72712,138.60887c-104.43354,36.09585 -254.99121,57.44297 -404.92908,57.41367c-149.93787,-0.02929 -299.25596,-21.435 -404.92908,-57.41367c-105.67313,-35.97868 -167.70129,-86.53033 -167.72712,-138.60887c-0.02582,-52.07854 61.95069,-105.68396 167.72712,-138.60887z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3d0247f7-5649-45ce-b44a-69ac3dcbaf3e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0fdf68cb-85b0-4a1e-a383-c1e5febe6db9"
+    } ]
+  } ],
+  "@id" : "https://Justine-chn.github.io/GotTapestry2/annotations/58a1d56810216d061b89b05f71f76e9b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
