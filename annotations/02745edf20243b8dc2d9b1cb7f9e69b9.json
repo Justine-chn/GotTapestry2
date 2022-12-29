@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Winterfell Castle.&nbsp;\nThe home of the Stark family stood for millenia in the North. It was then destroyed shortly after Theon Greyjoy forced Bran Stark to yield the castle to him.&nbsp;\nWinterfell can be explored at Castle Ward :&nbsp;\n<a title=\"Castle Ward \" href=\"https://www.nationaltrust.org.uk/visit/northern-ireland/castle-ward\" target=\"_blank\" rel=\"noopener\">https://www.nationaltrust.org.uk/visit/northern-ireland/castle-ward",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Winterfell Castle.&nbsp;</p>\n<p>The home of the Stark family stood for millenia in the North. It was then destroyed shortly after Theon Greyjoy forced Bran Stark to yield the castle to him.&nbsp;</p>\n<p>Winterfell can be explored at Castle Ward :&nbsp;</p>\n<p><a title=\"Castle Ward \" href=\"https://www.nationaltrust.org.uk/visit/northern-ireland/castle-ward\" target=\"_blank\" rel=\"noopener\">https://www.nationaltrust.org.uk/visit/northern-ireland/castle-ward</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T16:14:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672330493796",
+    "dcterms:modified" : "2022-12-29T16:14:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=185,437,1517,1141"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M185.0359,436.89775h758.37787v0h758.37787v570.39559v570.39559h-758.37787h-758.37787v-570.39559z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ae8512f7-8dfb-4c80-bcb9-eb52b94cd74a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c49c6107-7c4b-4fb4-90e8-121f06077d91"
+    } ]
+  } ],
+  "@id" : "https://Justine-chn.github.io/GotTapestry2/annotations/02745edf20243b8dc2d9b1cb7f9e69b9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
