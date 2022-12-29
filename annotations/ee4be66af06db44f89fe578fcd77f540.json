@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The central scene overflows borders with dead bodies, that was inspired by the battle of Hastings.&nbsp;<a title=\"La Bataille d'Hastings, Tapisserie de Bayeux\" href=\"https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/la-bataille-hastings/\" target=\"_blank\" rel=\"noopener\">https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/la-bataille-hastings/",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The central scene overflows borders with dead bodies, that was inspired by the battle of Hastings.&nbsp;<a title=\"La Bataille d'Hastings, Tapisserie de Bayeux\" href=\"https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/la-bataille-hastings/\" target=\"_blank\" rel=\"noopener\">https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/la-bataille-hastings/</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:53:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329184695",
+    "dcterms:modified" : "2022-12-29T15:53:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=955,1718,748,454"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1703.89591,2171.9586h-374.23499v0h-374.23499v-227.16487v-227.16487h374.23499h374.23499v227.16487z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_173cf5da-4789-45be-aa5f-378b8ed7281a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d37564fe-0696-4126-9b21-e19467bf5755"
+    } ]
+  } ],
+  "@id" : "https://Justine-chn.github.io/GotTapestry2/annotations/ee4be66af06db44f89fe578fcd77f540.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
