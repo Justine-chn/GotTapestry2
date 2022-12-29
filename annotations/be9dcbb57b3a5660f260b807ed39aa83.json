@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Upper part which narrates secondary events. The ship in the top right corner evokes Sansa's leak.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Upper part which narrates secondary events. The ship in the top right corner evokes Sansa's leak.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:58:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329513980",
+    "dcterms:modified" : "2022-12-29T15:58:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,193,3950,243"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3950.02594,435.84977h-1975.01297v0h-1975.01297v-121.59714v-121.59714h1975.01297h1975.01297v121.59714z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_42c3368b-1195-49fe-9686-decfe7523a31\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://de80748b-d900-464a-b55e-4e615901a4e7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Central part : narrates the main events : Joffrey's death at his wedding with Margaery.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Central part : narrates the main events : Joffrey's death at his wedding with Margaery.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:55:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329325067",
+    "dcterms:modified" : "2022-12-29T15:55:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=11,464,3941,1150"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M10.89264,464.01227h1970.73875v0h1970.73875v574.88548v574.88548h-1970.73875h-1970.73875v-574.88548z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_36c6f696-7689-49cf-ada9-103081cc4347\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://de80748b-d900-464a-b55e-4e615901a4e7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Viking dock.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Viking dock.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T16:02:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329758923",
+    "dcterms:modified" : "2022-12-29T16:03:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3480,248,381,159"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3536.13879,271.73526c35.20959,-13.33698 84.87844,-23.26859 134.78797,-23.25672v0v0c49.90953,0.01187 93.38911,9.30272 134.78797,23.25672c41.39886,13.954 57.49007,35.2172 55.831,56.14668c-1.65907,20.92948 -21.06841,41.52523 -55.831,56.14668c-34.76259,14.62145 -84.87844,23.26859 -134.78797,23.25672c-49.90953,-0.01187 -99.61276,-8.68274 -134.78797,-23.25672c-35.17521,-14.57398 -55.8224,-35.05108 -55.831,-56.14668c-0.0086,-21.0956 20.62141,-42.8097 55.831,-56.14668z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_ef5f293e-2732-44ee-b76f-eca6067041e4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"25.88957\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://de80748b-d900-464a-b55e-4e615901a4e7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lower part which lights up the main stage. The calice evokes Joffrey's poisoning",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lower part which lights up the main stage. The calice evokes Joffrey's poisoning</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/103387992532286154207",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T15:57:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672329430583",
+    "dcterms:modified" : "2022-12-29T15:59:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=-2,1634,3973,291"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M-2,1634.30902h1986.62486v0h1986.62486v145.39218v145.39218h-1986.62486h-1986.62486v-145.39218z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_69cf74ab-3d7e-4320-b75a-156e46128f3c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"32.69257\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://de80748b-d900-464a-b55e-4e615901a4e7"
+    } ]
+  } ],
+  "@id" : "https://Justine-chn.github.io/GotTapestry2/annotations/be9dcbb57b3a5660f260b807ed39aa83.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
