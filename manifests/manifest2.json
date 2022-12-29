@@ -3,6 +3,11 @@
   "@id" : "https://Justine-chn.github.io/GotTapestry2/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Game of Thrones Tapestry",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/103387992532286154207/fcd530762c46447c3ba58defa4a0d6a3/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : "Tourism Ireland"
@@ -59,6 +64,11 @@
         },
         "on" : "http://b24bf83b-f835-42e1-8e58-7c5918b1f0a1"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://justine-chn.github.io/GotTapestry2/annotations/75339b1062cfae08bec5a6d250486ac5.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations Joust Scene"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://c49c6107-7c4b-4fb4-90e8-121f06077d91",
@@ -84,6 +94,11 @@
           "width" : 2558
         },
         "on" : "http://c49c6107-7c4b-4fb4-90e8-121f06077d91"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://justine-chn.github.io/GotTapestry2/annotations/02745edf20243b8dc2d9b1cb7f9e69b9.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations Winterfell"
       } ],
       "related" : ""
     }, {
@@ -111,6 +126,11 @@
         },
         "on" : "http://0fdf68cb-85b0-4a1e-a383-c1e5febe6db9"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://justine-chn.github.io/GotTapestry2/annotations/58a1d56810216d061b89b05f71f76e9b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations Banquet"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://d37564fe-0696-4126-9b21-e19467bf5755",
@@ -137,6 +157,11 @@
         },
         "on" : "http://d37564fe-0696-4126-9b21-e19467bf5755"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://justine-chn.github.io/GotTapestry2/annotations/ee4be66af06db44f89fe578fcd77f540.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations CastleBlack"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://de80748b-d900-464a-b55e-4e615901a4e7",
@@ -162,6 +187,11 @@
           "width" : 3961
         },
         "on" : "http://de80748b-d900-464a-b55e-4e615901a4e7"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://justine-chn.github.io/GotTapestry2/annotations/be9dcbb57b3a5660f260b807ed39aa83.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations Purple Wedding"
       } ],
       "related" : ""
     } ]
